@@ -1,0 +1,9 @@
+Package: com.lqmb.triu
+Name: Hack LQMB ttriu
+Depends: mobilesubstrate, preferenceloader
+Version: 1.7.0
+Architecture: iphoneos-arm
+Description: zalo: 0896559432
+Maintainer: triu
+Author: triu
+Section: Tweaks
